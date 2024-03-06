@@ -13,7 +13,7 @@ This is a simple clone of the Amazon website created using HTML and CSS. The pro
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Abatra128/Amazon-HTML & CSS-clone.git
+git clone https://github.com/Abatra128/Amazon-HTML-CSS-clone.git
 Open the index.html file in your web browser to view the Amazon clone website.
 
 Usage
