@@ -233,3 +233,31 @@ ul a{
 .copyright{
    font-size: 0.7rem;
 }
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column; 
+        align-items: stretch; 
+    }
+    .search {
+        max-width: none; 
+        width: 100%; 
+    }
+
+    .search-select,
+    .search-input {
+        width: 100%; 
+    }
+
+    .footer {
+        flex-direction: column; 
+        align-items: stretch; 
+    }
+
+    .foot-panel1,
+    .foot-panel2,
+    .foot-panel3,
+    .foot-panel4 {
+        flex-grow: 0; 
+        flex-basis: auto; 
+    }
